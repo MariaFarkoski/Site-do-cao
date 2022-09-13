@@ -1,14 +1,13 @@
 header{
     margin: 0px;
     width: 100%;
-    background-image: linear-gradient(to bottom, rgb(21, 116, 40), white); /*para fazer fundo degradê*/
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .principal{
-    background: #CCCCCC;
+    background: 150 75 0;
     padding: 30px;
 }
 
@@ -27,19 +26,13 @@ header{
 }
 
 em strong {
-    color: #FF0000;
+    color: 66 38 0;
 }
 
 
 .Objetivo h3{
     text-align: center;
-    background: #FFFFFF;
+    background: 150 75 0;
     padding: 20px;
 }
 
-.lista{
-        display: inline-block;
-        vertical-align: top;
-        width: 20%;
-        margin-right: 15%;
-}
