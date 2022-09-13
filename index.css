@@ -1,13 +1,14 @@
 header{
     margin: 0px;
     width: 100%;
+    background-image: linear-gradient(to bottom, rgb(137, 107, 73), white);
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .principal{
-    background: 150 75 0;
+    background: #422600;
     padding: 30px;
 }
 
@@ -26,13 +27,13 @@ header{
 }
 
 em strong {
-    color: 66 38 0;
+    color: rgb(66 38 0);
 }
 
 
 .Objetivo h3{
     text-align: center;
-    background: 150 75 0;
+    background: #422600;
     padding: 20px;
 }
 
