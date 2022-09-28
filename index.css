@@ -3,8 +3,18 @@ background: #C8A2C8;
 
 }
 
+.centralizar{
+    text-align: center;
+}
+
 h1{
- text-align: center;
+ color: rgb(79, 9, 126);
  
+}
+h2{
+ color: rgb(79, 9, 126);
+}
+h3{
+color: rgb(79, 9, 126);
 }
 
