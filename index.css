@@ -1,20 +1,24 @@
 body{
-    background-image: linear-gradient(to bottom, rgb(124, 6, 170), rgb(203, 153, 218));
+    background-image: linear-gradient(to bottom, rgb(138, 27, 182), rgb(203, 153, 218));
 
 }
 
 .centralizar{
     text-align: center;
 }
+.imagem{
+    width: 600px;
+}
 
 h1{
  color: rgb(79, 9, 126);
  
 }
+
 h2{
  color: rgb(79, 9, 126);
 }
+
 h3{
 color: rgb(79, 9, 126);
 }
-
