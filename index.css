@@ -8,6 +8,9 @@ body{
 }
 .imagem{
     width: 600px;
+    margin-left: 28%;
+    border: dashed 5px black;
+    padding: 5px;
 }
 
 h1{
