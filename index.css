@@ -2,13 +2,16 @@ body{
     background-image: linear-gradient(to bottom, rgb(138, 27, 182), rgb(203, 153, 218));
 
 }
+.imagem2 {
+   width: 100%;
+}
 
 .centralizar{
     text-align: center;
 }
 .imagem{
-    width: 600px;
-    margin-left: 28%;
+    width: 500px;
+    margin-left: 30%;
     border: dashed 5px black;
     padding: 5px;
 }
